@@ -3,7 +3,7 @@
 
 **🔍 About Me:**
 
-Hi, I'm Maryam, and I am an aspiring Data Analyst. I'm fascinated by the power of data to drive insights and inform decision making and of course shaping our future. 
+Hi, I'm Maryam, and I am an aspiring Data Analyst. I'm fascinated by the power of data to drive insights and inform decision making and in shaping our future. 
 
 ## **🔧Technical Skills**
  
