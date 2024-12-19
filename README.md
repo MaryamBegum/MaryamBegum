@@ -2,10 +2,12 @@
 
 
 **🔍 About Me:**
+
 Hi, I'm Maryam, and I am an aspiring Data Analyst. I'm fascinated by the power of data to drive insights and inform decision making and of course shaping our future. 
 
-**🔧Technical Skills** 
-**Languages** 
+## **🔧Technical Skills**
+ 
+**📂Languages** 
 
 **SQl:**  Proficient in writing optimized SQL queries for data extraction and transformation.
 Skilled in creating stored procedures, views, and joins.
@@ -21,7 +23,7 @@ Data analysis using Pandas, NumPy, and Matplotlib for data visualization. Experi
 
 **R:** Data manipulation with dplyr, data visualization with ggplot2, and statistical analysis. Great for statistical analysis and creating insightful visuals.
 
-**Tools:**
+**🛠️Tools**
 
 **Tableu:** Expert in designing interactive visualizations and dashboards.
 Skilled in creating calculated fields and advanced filters for actionable insights.
