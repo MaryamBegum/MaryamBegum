@@ -33,5 +33,6 @@ Building interactive dashboards, connecting to various data sources, and creatin
 Experienced in data modeling, relationships, and report automation.
 Creating business intelligence reports and dashboards to track KPIs and performance metrics.
 
+## ** 🌟 Fun Facts About Me**
 
-
+I frequently visit libraries and read books to broaden my knowledge further and because they really interest and inspire me. Also, I find it quite therapeutic to do art, so I often paint and sketch in my free time. In addition to this, I go swimming every week as I think its important to work out both your mind and body. Moreover, I regularly like to do puzzles and riddles as I find them mentally stimulating.
