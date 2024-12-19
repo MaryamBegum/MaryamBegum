@@ -30,11 +30,5 @@ Power BI: Deep knowledge of DAX for complex calculations and measures.
 Experienced in data modeling, relationships, and report automation.
 Creating business intelligence reports and dashboards to track KPIs and performance metrics.
 
-🔍 Data Manipulation & Analysis
-Data Cleaning 🧹: Proficient in handling missing data, outlier detection, and data transformations using Pandas (Python) and dplyr (R).
-Exploratory Data Analysis (EDA) 🔍: Performing in-depth EDA to summarize key characteristics, identify patterns, and detect anomalies.
-Data Wrangling 🧩: Converting raw data into usable formats, merging datasets, reshaping data, and preparing datasets for analysis.
-Time Series Analysis ⏳: Analyzing trends and seasonality in time series data, forecasting with Python’s statsmodels and R’s forecast package.
 
-📞 Contact Me
-📧 Email: athomic80@gmail.com
+
